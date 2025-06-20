@@ -1,0 +1,30 @@
+Terra Balance Financial Analysis Summary
+=============================================
+
+1. Key Trends:
+- Revenue, expenses, and profit trends visualized monthly.
+- Profit margin calculated and visualized.
+
+2. Forecasts (2024–2028):
+- Profit, revenue, and expenses forecasted using Prophet.
+- Yield forecasts for cocoa and plantain (if available).
+
+3. Cost Drivers (Average per Month):
+   Labor Costs: 6,119.51
+   Fertilizer Costs: 1,799.82
+   Transport Costs: 1,338.92
+
+4. Overall Profit Margin: 4.32%
+
+5. Recommendations:
+- Focus on optimizing top cost drivers.
+- Use forecasts for planning and budgeting.
+- Regularly update data and review forecasts.
+
+6. Data Files for Further Analysis:
+- monthly_summary.csv
+- profit_forecast.csv
+- revenue_forecast.csv
+- expenses_forecast.csv
+- cocoa_yield_forecast.csv (if available)
+- plantain_yield_forecast.csv (if available)
